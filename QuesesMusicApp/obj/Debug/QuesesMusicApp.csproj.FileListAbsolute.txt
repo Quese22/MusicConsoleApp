@@ -1,0 +1,6 @@
+C:\Users\keece\source\repos\QuesesMusicApp\QuesesMusicApp\bin\Debug\QuesesMusicApp.dll
+C:\Users\keece\source\repos\QuesesMusicApp\QuesesMusicApp\bin\Debug\QuesesMusicApp.pdb
+C:\Users\keece\source\repos\QuesesMusicApp\QuesesMusicApp\obj\Debug\QuesesMusicApp.csprojAssemblyReference.cache
+C:\Users\keece\source\repos\QuesesMusicApp\QuesesMusicApp\obj\Debug\QuesesMusicApp.csproj.CoreCompileInputs.cache
+C:\Users\keece\source\repos\QuesesMusicApp\QuesesMusicApp\obj\Debug\QuesesMusicApp.dll
+C:\Users\keece\source\repos\QuesesMusicApp\QuesesMusicApp\obj\Debug\QuesesMusicApp.pdb
